@@ -41,7 +41,7 @@ a:hover { color: #FF0; }
 #navbar a {
   float: left;
   display: block;
-  color: #f2f2f2;
+  color: #02f7ff;
   text-align: center;
   padding: 14px;
   text-decoration: none;
@@ -82,7 +82,7 @@ a:hover { color: #FF0; }
 .fixed-side-navbar:hover .nav > li > a > span {
   color: rgba(0, 0, 0, 0.5);
   display: block;
-  background-color: #fff;
+  background-color: rgb(243, 90, 1);
   text-align: center;
   text-transform: uppercase;
   font-size: 12px;
@@ -134,7 +134,7 @@ a:hover { color: #FF0; }
   width: 10px;
   height: 10px;
   border-radius: 10px;
-  background: rgba(250, 250, 250, 0.75);
+  background: rgba(255, 83, 15, 0.959);
   -webkit-transition: all .3s;
   transition: all .3s;
   -webkit-transform: scale(0.6);
