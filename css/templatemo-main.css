@@ -192,7 +192,8 @@ a:hover { color: #FF0; }
   font-weight: 900;
   text-transform: uppercase;
   margin-bottom: 0px;
-  font-family: 'Changa One', cursive;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'IM Fell French Canon SC', serif;
   text-shadow: 6px 6px #000000;
 
 }
@@ -201,7 +202,8 @@ a:hover { color: #FF0; }
   color: #FFF;
   font-weight: 600;
   font-style: normal;
-  font-family: 'Changa One', cursive;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'IM Fell French Canon SC', serif;
   text-shadow: 6px 4px #000000;
 
 }
